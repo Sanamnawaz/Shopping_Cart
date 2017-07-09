@@ -1,0 +1,9 @@
+Hello Sanam Your Purchased  Items are:
+ProductID	Price	Category	Color	Brand	Purchased Date	Product	CustomerEmail
+
+	500113,	5000,	One,	Goldish white,	Gold,	7/9/2017,	e.jpg,	sanamnawaz01@gmail.com 
+
+	500115,	15000,	One,	MultiColor,	Gold,	7/9/2017,	f.jpg,	sanamnawaz01@gmail.com 
+
+	500105,	5000,	One,	Purple,	Diamond,	7/9/2017,	i.jpg,	sanamnawaz01@gmail.com 
+
